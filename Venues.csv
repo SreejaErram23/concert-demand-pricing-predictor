@@ -1,0 +1,27 @@
+venue_id,venue_name,venue_type,city,state,capacity,metro_population
+1,State Farm Stadium,stadium,Phoenix,AZ,63400,4834000
+2,Ford Field,stadium,Detroit,MI,65000,3543000
+3,Soldier Field,stadium,Chicago,IL,62500,9042000
+4,MetLife Stadium,stadium,East Rutherford,NJ,82500,19154000
+5,Gillette Stadium,stadium,Foxborough,MA,64628,4396000
+6,U.S. Bank Stadium,stadium,Minneapolis,MN,66860,3039000
+7,SoFi Stadium,stadium,Inglewood,CA,70240,12678000
+8,Allegiant Stadium,stadium,Las Vegas,NV,65000,3000000
+9,Empower Field at Mile High,stadium,Denver,CO,76125,2995000
+10,Hard Rock Stadium,stadium,Miami,FL,65326,6372000
+11,Mercedes-Benz Stadium,stadium,Atlanta,GA,71000,6272000
+12,NRG Stadium,stadium,Houston,TX,72220,6890000
+13,FedExField,stadium,Landover,MD,64000,5600000
+27,United Center,arena,Chicago,IL,20000,9042000
+28,Smoothie King Center,arena,New Orleans,LA,16867,1030000
+29,Bridgestone Arena,arena,Nashville,TN,17159,1350000
+30,Toyota Center,arena,Houston,TX,18055,6890000
+31,American Airlines Center,arena,Dallas,TX,18532,6732000
+32,Kia Forum,arena,Inglewood,CA,17500,12678000
+33,Chase Center,arena,San Francisco,CA,18064,3363000
+34,Crypto.com Arena,arena,Los Angeles,CA,20000,12678000
+35,Climate Pledge Arena,arena,Seattle,WA,17151,3581000
+36,T-Mobile Arena,arena,Las Vegas,NV,20000,3000000
+37,Ball Arena,arena,Denver,CO,19520,2995000
+38,Frost Bank Center,arena,San Antonio,TX,18418,2525000
+39,Capital One Arena,arena,Washington,DC,20356,5600000

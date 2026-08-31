@@ -1,0 +1,27 @@
+tour_date_id,venue_id,artist_id,date,tour_name,supporting_acts,actual_demand_percent
+39,1,1,2025-05-09,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+40,2,1,2025-05-24,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+41,3,1,2025-05-30,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+42,4,1,2025-06-05,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+43,5,1,2025-06-10,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+44,6,1,2025-06-14,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+45,9,1,2025-06-21,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+46,7,1,2025-06-25,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+47,8,1,2025-07-05,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+48,13,1,2025-08-02,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+49,10,1,2025-08-15,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+50,11,1,2025-08-21,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+51,12,1,2025-08-30,After Hours Til Dawn,"Playboi Carti, Mike Dean",95.0
+52,27,4,2023-07-05,Its All a Blur,21 Savage,100.0
+53,30,4,2023-06-21,Its All a Blur,21 Savage,100.0
+54,31,4,2023-06-24,Its All a Blur,21 Savage,100.0
+55,39,4,2023-07-28,Its All a Blur,21 Savage,84.0
+56,32,4,2023-08-12,Its All a Blur,21 Savage,100.0
+57,33,4,2023-08-18,Its All a Blur,21 Savage,100.0
+58,34,4,2023-08-21,Its All a Blur,21 Savage,100.0
+59,35,4,2023-08-25,Its All a Blur,21 Savage,100.0
+60,36,4,2023-09-01,Its All a Blur,21 Savage,100.0
+61,37,4,2024-01-18,Its All a Blur - Big As the What?,J. Cole,100.0
+62,38,4,2024-01-22,Its All a Blur - Big As the What?,J. Cole,100.0
+63,28,4,2024-01-29,Its All a Blur - Big As the What?,J. Cole,100.0
+64,29,4,2024-02-07,Its All a Blur - Big As the What?,J. Cole,100.0
